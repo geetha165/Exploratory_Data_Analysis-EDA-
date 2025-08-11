@@ -62,3 +62,6 @@ The project uses Python libraries like Pandas, Seaborn, and Matplotlib for data 
 Dataset: [Kaggle - Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
 ---
+
+## 📬 Connect with me on LinkedIn:
+- <a href="https://www.linkedin.com/in/geetha-venkatesan2205/">👉 LinkedIn Profile</a>
